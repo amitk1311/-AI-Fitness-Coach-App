@@ -18,7 +18,7 @@ Built with Tailwind CSS and fully responsive for desktop and mobile.
 ✨ Markdown Rendering
 Beautifully formatted plans with headings, styling, and sections using react-markdown.
 
-🔄 Fallback Plan
+🔄 Fallback Plan 
 If API fails (503), displays emergency sample plan automatically.
 
 🔐 Secure API Key Handling
